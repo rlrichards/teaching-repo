@@ -1,2 +1,2 @@
-# teaching-repo
+# This is a title
 
